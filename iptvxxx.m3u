@@ -12,9 +12,6 @@ http://59ec5453559f0.streamlock.net/miamitvDJ/smil:56925/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Miami TV LIFE
 http://59ec5453559f0.streamlock.net/miamitvlife/smil:76945/playlist.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", PLAYBOY TV
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="http://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
 http://live.redtraffic.net/livecams.m3u8
 
@@ -64,20 +61,28 @@ http://live.redtraffic.net/threesome.m3u8
 http://live.redtraffic.net/russian.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-language="English" tvg-logo="http://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Lesbian
-http://live.redtraffic.net/lesbian.m3u8
+http://live.redtraffic.net/lesbian.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-language="English" tvg-logo="http://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Rough
-http://live.redtraffic.net/rough.m3u8
+http://live.redtraffic.net/rough.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-language="English" tvg-logo="http://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gangbang
-http://live.redtraffic.net/gangbang.m3u8
+http://live.redtraffic.net/gangbang.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-language="English" tvg-logo="http://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Anal
-http://live.redtraffic.net/anal.m3u8
+http://live.redtraffic.net/anal.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-language="English" tvg-logo="http://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Compilation
-http://live.redtraffic.net/compilation.m3u8
+http://live.redtraffic.net/compilation.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-language="English" tvg-logo="http://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Brunette
-http://live.redtraffic.net/brunette.m3u8
+http://live.redtraffic.net/brunette.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="http://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blonde
-http://live.redtraffic.net/blonde.m3u8
+http://live.redtraffic.net/blonde.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gay" tvg-language="English" tvg-logo="http://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gay
-http://live.redtraffic.net/gay.m3u8
+http://live.redtraffic.net/gay.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="http://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
 http://live.redtraffic.net/asian.m3u8
